@@ -26,8 +26,8 @@ I’m currently learning **Frontend Development** step by step — from HTML/CSS
 ---
 
 ### 📫 Let's Connect!
-- Email: [your-email@example.com]
-- LinkedIn: [Your LinkedIn Profile Link]
+- Email: sanampoon27@gmail.com
+- LinkedIn: https://www.linkedin.com/in/sanampunmagar-aa6190264
 - Portfolio: Coming soon 🚀
 
 ---
