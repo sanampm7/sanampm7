@@ -18,19 +18,10 @@ I’m currently learning **Frontend Development** step by step — from HTML/CSS
 - Understand and apply **inline**, **block**, and **responsive design principles**
 - Use Git & GitHub for version control
 
-### 🔭 What's Next
-- Frameworks like **React**
-- Building complete projects (Portfolio, Movie Review Web App, etc.)
-- Learning API integration and more about backend
-
----
-
 ### 📫 Let's Connect!
 - Email: sanampoon27@gmail.com
 - LinkedIn: https://www.linkedin.com/in/sanampunmagar-aa6190264
 - Portfolio: Coming soon 🚀
-
----
 
 > “Every line of code is a step forward.” — Sanam Magar 💡
 
