@@ -26,7 +26,7 @@ I'm a Full-Stack Developer specializing in the **MERN Stack** (MongoDB, Express.
 
 ## 📫 Let's Connect
 - 💼 LinkedIn:https://www.linkedin.com/in/sanampunmagar-aa6190264/
-- 📧 sanampo0n27@gmail.com
+- 📧 sanampoon27@gmail.com
 - 🌐 [Portfolio Website](https://your-portfolio-link.com)
 
 ---
