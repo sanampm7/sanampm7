@@ -26,9 +26,5 @@ I'm a Full-Stack Developer specializing in the **MERN Stack** (MongoDB, Express.
 
 ## 📫 Let's Connect
 - 💼 LinkedIn:https://www.linkedin.com/in/sanampunmagar-aa6190264/
-- 📧 Email ID : https://mail.google.com/mail/u/0/#inbox
-- 🌐 Portfolio Website: https://my-portfolio-one-sooty-14.vercel.app/
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+- 📧 Email ID : sanampoon27@gmail.com
+- 🌐 Portfolio Website: https://my-portfolio-one-sooty-14.vercel.app
