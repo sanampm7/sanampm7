@@ -25,8 +25,8 @@ I'm a Full-Stack Developer specializing in the **MERN Stack** (MongoDB, Express.
 ![Sanam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanampm7&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/sanampm7)
-- 📧 sanampom27@gmail.com
+- 💼 LinkedIn:https://www.linkedin.com/in/sanampunmagar-aa6190264/
+- 📧 sanampo0n27@gmail.com
 - 🌐 [Portfolio Website](https://your-portfolio-link.com)
 
 ---
