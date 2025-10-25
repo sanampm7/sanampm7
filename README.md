@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sanam Magar
 
-I'm in a phase of Full-Stack Developer specializing in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js). I build responsive, scalable, and user-centric web applications with a strong focus on UI/UX design and performance.
+I'm in a phase of learning Full-Stack Developer specializing in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js). I build responsive, scalable, and user-centric web applications with a strong focus on UI/UX design and performance.
 
 ## 🚀 Tech Stack
 - **Frontend**: React.js, Tailwind CSS
