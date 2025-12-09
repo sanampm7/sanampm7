@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sanam Magar
+# 👋 Hi, I'm Chhabilal Pun Magar
 
 I'm in a phase of learning Full-Stack Developer specializing in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js). I build responsive, scalable, and user-centric web applications with a strong focus on UI/UX design and performance.
 
